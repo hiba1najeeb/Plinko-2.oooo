@@ -1,1 +1,1 @@
-# Plinko-2.oooo
+# Plinko 2
